@@ -1,1 +1,2 @@
-This is test3 file
+This is text3 with additional features
+
